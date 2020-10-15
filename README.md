@@ -1,3 +1,7 @@
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=320&section=header&text=migueorg👋&fontSize=70)
+
 ### Hi there 👋
 
 <!--
